@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hooopo&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aircjm)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hooopo/hooopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,34 +18,20 @@ Here are some ideas to get you started:
 
 ## currently working on
 
-* https://hackershare.dev
-* https://drawerd.com
-* https://github.com/hypercable/hypercable
 
 ## currently learning
 
-* tailwindcss
-* stimulus js
-* vanilla js
-* Web Design
+* VUE
+* JUC
+* Spring
 
 ## tech tags
 
-* Postgres
+* Java
 * MySQL
-* Ruby
-* Rails
-* web performance
-* web information architecture
-* searching
-* Workflow Engine
-* ETL
-* CRM
-* e-commerce
-* LowCode
-* GraphQL
-* BaaS
+* Spring
+* Golang
 
 ## looking for
 
-* frontend engineer
+* backend engineer
