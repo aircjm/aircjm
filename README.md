@@ -6,6 +6,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aircjm&layout=compact&theme=radical" />
 </a>
 
+
+### :memo:Weekly Development ###
+
+![syhily Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aircjm&layout=compact&theme=radical)
+
+---
+
 <!--
 **hooopo/hooopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
